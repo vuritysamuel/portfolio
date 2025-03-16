@@ -1,18 +1,1 @@
-
-// Your existing code here
-
-
-
-export default function Skills() {
-
-    return (
-  
-      <div>
-  
-        {/* Skills component content */}
-  
-      </div>
-  
-    );
-  
-  }
+export default function Skills() { return (<section className='p-4'>Skills Section</section>); }

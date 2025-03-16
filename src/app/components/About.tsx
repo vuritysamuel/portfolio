@@ -1,17 +1,1 @@
-
-// Your existing code in About.tsx
-
-
-
-export default function About() {
-
-    return (
-  
-      <div>
-  
-        {/* About component content */}
-  
-      </div>
-  
-        );
-    }
+export default function About() { return (<section className='p-4'>About Section</section>); }

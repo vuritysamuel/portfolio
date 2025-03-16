@@ -1,6 +1,1 @@
-
-// Your existing code in Projects.tsx
-
-
-
-export default Projects; // Ensure that Projects is the component or module you want to
+export default function Projects() { return (<section className='p-4'>Projects Section</section>); }

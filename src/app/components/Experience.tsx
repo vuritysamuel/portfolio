@@ -1,17 +1,1 @@
-
-// Your existing code here
-
-
-
-export default function Experience() {
-
-    return (
-  
-      <div>
-  
-        {/* Your Experience component code here */}
-  
-      </div>
-  
-        );
-    }
+export default function Experience() { return (<section className='p-4'>Experience Section</section>); }

@@ -1,12 +1,1 @@
-
-// Your Hero component code here
-
-const Hero = () => {
-  return (
-	<div>
-	  {/* Your Hero component JSX here */}
-	</div>
-  );
-};
-
-export default Hero;
+export default function Hero() { return (<section className='p-4'>Hero Section</section>); }
